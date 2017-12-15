@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 
 	"os"
 

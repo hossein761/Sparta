@@ -12,7 +12,7 @@
   revision = "0dbc446aca87aebb6e0a24509b59bafc0e3ec0ae"
 
 [[dependencies]]
-  name = "github.com/crewjam/go-cloudformation"
+  name = "github.com/hossein761/go-cloudformation"
   revision = "dc036ed324b195833581cf6b102c8a8cf5d2fbb8"
 
 [[dependencies]]

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 
 	"github.com/Sirupsen/logrus"
 )

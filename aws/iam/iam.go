@@ -1,7 +1,7 @@
 package iam
 
 import (
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 )
 
 // PolicyStatement represents an entry in an IAM policy document

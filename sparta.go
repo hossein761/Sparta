@@ -21,7 +21,7 @@ import (
 	spartaIAM "github.com/mweagle/Sparta/aws/iam"
 
 	"github.com/aws/aws-sdk-go/aws/session"
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 
 	"github.com/Sirupsen/logrus"
 	_ "github.com/aws/aws-sdk-go/service/ecr"  // Ref to have Glide include depends

@@ -16,7 +16,7 @@ import (
 	"text/template"
 
 	"github.com/Sirupsen/logrus"
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 	spartaIAM "github.com/mweagle/Sparta/aws/iam"
 	"github.com/mweagle/cloudformationresources"
 )

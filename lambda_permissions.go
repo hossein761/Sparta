@@ -7,7 +7,7 @@ import (
 
 	"github.com/mweagle/cloudformationresources"
 
-	gocf "github.com/crewjam/go-cloudformation"
+	gocf "github.com/hossein761/go-cloudformation"
 
 	"github.com/Sirupsen/logrus"
 	"github.com/aws/aws-sdk-go/service/s3"
